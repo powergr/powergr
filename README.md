@@ -22,7 +22,7 @@ My primary focus is on the development of **[Project QRE](https://github.com/pow
 
 *   **Website:** [projectqre.com](https://projectqre.com)
 *   **Email:** info@projectqre.com
-*   **LinkedIn:**https://www.linkedin.com/in/laoutaris/
+*   **LinkedIn:** https://www.linkedin.com/in/laoutaris/
 
 ---
 
