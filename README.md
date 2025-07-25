@@ -20,8 +20,8 @@ My primary focus is on the development of **[Project QRE](https://github.com/pow
 
 📫 **How to Reach Me:**
 
-*   **Website:** [projectqre.com](https://projectqre.com)
-*   **Email:** info@projectqre.com
+*   **Website:** [laoutaris.org](https://laoutaris.org)
+*   **Email:** support@laoutaris.com
 *   **LinkedIn:** https://www.linkedin.com/in/laoutaris/
 
 ---
