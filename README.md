@@ -26,7 +26,8 @@ My primary focus is on developing **[QRE Privacy Toolkit](https://github.com/pow
 
 ---
 
-[![powergr's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=powergr&show_icons=true&theme=dark)](https://github.com/powergr)
+![powergr's GitHub stats](assets/github-stats.svg)
+
 
 
 
