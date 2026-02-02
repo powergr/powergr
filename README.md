@@ -6,7 +6,7 @@ I'm a security-focused software developer and the founder of Project QRE. I am p
 
 🔭 **My Current Focus:**
 
-My primary focus is on the development of **[Project QRE](https://github.com/powergr/Project_QRE)**, a multi-layered, quantum-resistant encryption system. I am currently leading the project into its Prototype phase, focusing on performance optimization and API development.
+My primary focus is on developing **[QRE Privacy Toolkit](https://github.com/powergr/qre-privacy-toolkit)**, a secure, cross-platform application designed to handle your sensitive data without relying on the cloud.
 
 ---
 
@@ -27,3 +27,5 @@ My primary focus is on the development of **[Project QRE](https://github.com/pow
 ---
 
 ![powergr's GitHub stats](https://github-readme-stats.vercel.app/api?username=powergr&show_icons=true&theme=dark)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=powergrE&show_icons=true)](https://github.com/powergr)
+
