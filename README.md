@@ -6,13 +6,13 @@ I'm a security-focused software developer and the founder of Project QRE. I am p
 
 🔭 **My Current Focus:**
 
-My primary focus is on developing **[QRE Privacy Toolkit](https://github.com/powergr/qre-privacy-toolkit)**, a secure, cross-platform application designed to handle your sensitive data without relying on the cloud.
+My primary focus is on developing the **[QRE Privacy Toolkit](https://github.com/powergr/qre-privacy-toolkit)**, a secure, cross-platform application that handles your sensitive data without relying on the cloud.
 
 ---
 
 🚀 **Core Skills & Interests:**
 
-*   **Languages:** Python
+*   **Languages:** Python, Rust, PHP, TS, etc.
 *   **Technologies:** Applied Cryptography, Post-Quantum Cryptography (PQC), Secure System Architecture, API Design (FastAPI), Key Management (HashiCorp Vault).
 *   **Interests:** Data Privacy, Future-Proofing Technology, Open-Source Development.
 
@@ -27,6 +27,7 @@ My primary focus is on developing **[QRE Privacy Toolkit](https://github.com/pow
 ---
 
 ![Metrics](github-metrics.svg)
+
 
 
 
