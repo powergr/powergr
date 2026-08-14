@@ -1,6 +1,6 @@
 ### Hi there, I'm Pashalis Laoutaris 👋
 
-I'm a security-focused software developer and the founder of Project QRE. I am passionate about building robust, forward-looking solutions to safeguard our digital future against emerging computational threats.
+I'm a security-focused software developer and the founder of QRE Privacy Toolkit and many other projects. I am passionate about building solutions that protect our digital future from emerging computational threats.
 
 ---
 
